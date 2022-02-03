@@ -1,12 +1,12 @@
 {
-  chapter: {
-  fontSize: 14,
-  bold: true,
-  italics: false,
- },
- decision: {
-  fontSize: 12,
-  bold: true,
-  italics: true,
- }
+	"chapter": {
+		"fontSize": 14,
+		"bold": true,
+		"italics": false
+	},
+	"decision": {
+		"fontSize": 12,
+		"bold": true,
+		"italics": true
+	}
 }
