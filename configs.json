@@ -1,10 +1,10 @@
 {
 	"chapter": {
 		"fontSize": 13,
-		"bold": true,
+		"bold": true
 	},
 	"decision": {
 		"fontSize": 12,
-		"bold": true,
+		"bold": true
 	}
 }
