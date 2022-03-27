@@ -1,10 +1,12 @@
 {
 	"chapter": {
 		"fontSize": 13,
-		"bold": true
+		"bold": true,
+		"fontFamily": "Calibri"
 	},
 	"decision": {
 		"fontSize": 12,
-		"bold": true
+		"bold": true,
+		"fontFamily": "Calibri"
 	}
 }
