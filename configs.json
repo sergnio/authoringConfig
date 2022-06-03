@@ -4,6 +4,11 @@
 		"bold": true,
 		"fontFamily": "Calibri"
 	},
+	"combat": {
+		"fontSize": 14,
+		"bold": true,
+		"fontFamily": "Calibri"
+	},
 	"decision": {
 		"fontSize": 12,
 		"bold": true,
